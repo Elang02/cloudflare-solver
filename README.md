@@ -2,7 +2,8 @@ Cloudflare Solver with SeleniumBase
 This Python project uses SeleniumBase with undetected-chromedriver to automatically solve Cloudflare challenges. The script will return the cf_clearance cookie, which is necessary to access a site without being blocked.
 
 🛠️ Installation
-You need Python 3.x to run this script. Simply install SeleniumBase using pip:
+You need Python 3.x to run this script. 
+Simply install SeleniumBase using pip:
 
 ```bash
 pip install seleniumbase
