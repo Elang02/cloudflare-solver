@@ -17,6 +17,8 @@ Run the script from your terminal.
 python cloudflare_solver.py
 ```
 
+[🎬 Watch Demo](https://raw.githubusercontent.com/Elang02/cloudflare-solver/refs/heads/main/cloudflare-solver-demo.mp4)
+
 🖥️ Example Output
 When you run the script, you should see output in your terminal similar to this:
 
